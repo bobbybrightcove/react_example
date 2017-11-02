@@ -1,0 +1,975 @@
+{
+  "id": "f5af852c-1c3e-5591-9aa3-5beeb8958776",
+  "title": "Complications",
+  "description": "Alma feels unwell; Tolliver makes a discovery about Wolcott; Bullock protects Commissioner Jarry; Samuel Fields finds a kindred spirit in Jane.",
+  "episodeNumber": 688,
+  "videos": [
+    {
+      "videoCloudReferenceId": "5419485997001",
+      "type": "MOVIE",
+      "__typename": "Video"
+    },
+    {
+      "videoCloudReferenceId": "5419486891001",
+      "type": "PREVIEW",
+      "__typename": "Video"
+    }
+  ],
+  "seasonNumber": 1,
+  "series": {
+    "id": "2593e838-2e83-4ee6-8fbb-29fa14e8e757",
+    "title": "Deadwood",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "id": 1,
+        "episodes": [
+          {
+            "id": "f5af852c-1c3e-5591-9aa3-5beeb8958776",
+            "title": "Deadwood",
+            "description": "Jih iza buh bihewsec go ihaojo dimdu jaf wadu tap abmoado fajropab. Era zuzjahok tonegin idba lid jizmedtis cevi weraj wettuw op ban uhmowlis gavaeli ebe zoko epu. Vub ciuj tuhjem ma dup elwuefi saodil agumur kahpef fezvifkoj uburoruj toci ijoneza wuldafose. Niporna dop zuv rewbak ejifitem du owpeloz we rusam nabse purlol hehawruk adabaga ba.",
+            "duration": 350,
+            "seasonNumber": 1,
+            "episodeNumber": 1,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "c4db2204-16f2-469f-8bc1-5c2244295930",
+            "title": "Deep Water",
+            "description": "Jih iza buh bihewsec go ihaojo dimdu jaf wadu tap abmoado fajropab. Era zuzjahok tonegin idba lid jizmedtis cevi weraj wettuw op ban uhmowlis gavaeli ebe zoko epu. Vub ciuj tuhjem ma dup elwuefi saodil agumur kahpef fezvifkoj uburoruj toci ijoneza wuldafose. Niporna dop zuv rewbak ejifitem du owpeloz we rusam nabse purlol hehawruk adabaga ba.",
+            "duration": 350,
+            "seasonNumber": 1,
+            "episodeNumber": 2,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "4fcab75c-824b-4990-8a7d-4a8436c3fea1",
+            "title": "Reconnoitering the Rim",
+            "description": "Jih iza buh bihewsec go ihaojo dimdu jaf wadu tap abmoado fajropab. Era zuzjahok tonegin idba lid jizmedtis cevi weraj wettuw op ban uhmowlis gavaeli ebe zoko epu. Vub ciuj tuhjem ma dup elwuefi saodil agumur kahpef fezvifkoj uburoruj toci ijoneza wuldafose. Niporna dop zuv rewbak ejifitem du owpeloz we rusam nabse purlol hehawruk adabaga ba.",
+            "duration": 350,
+            "seasonNumber": 1,
+            "episodeNumber": 3,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "b105275a-2273-4736-a98f-85dcfcfdd776",
+            "title": "Here Was a Man",
+            "description": "Jih iza buh bihewsec go ihaojo dimdu jaf wadu tap abmoado fajropab. Era zuzjahok tonegin idba lid jizmedtis cevi weraj wettuw op ban uhmowlis gavaeli ebe zoko epu. Vub ciuj tuhjem ma dup elwuefi saodil agumur kahpef fezvifkoj uburoruj toci ijoneza wuldafose. Niporna dop zuv rewbak ejifitem du owpeloz we rusam nabse purlol hehawruk adabaga ba.",
+            "duration": 350,
+            "seasonNumber": 1,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "2ffe8b21-972b-4f19-a98c-244b4f898cb2",
+            "title": "The Trial of Jack McCall",
+            "description": "Jih iza buh bihewsec go ihaojo dimdu jaf wadu tap abmoado fajropab. Era zuzjahok tonegin idba lid jizmedtis cevi weraj wettuw op ban uhmowlis gavaeli ebe zoko epu. Vub ciuj tuhjem ma dup elwuefi saodil agumur kahpef fezvifkoj uburoruj toci ijoneza wuldafose. Niporna dop zuv rewbak ejifitem du owpeloz we rusam nabse purlol hehawruk adabaga ba.",
+            "duration": 350,
+            "seasonNumber": 1,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "f9f33c65-1e09-4327-8662-92e8e51501c8",
+            "title": "Plague",
+            "description": "Jih iza buh bihewsec go ihaojo dimdu jaf wadu tap abmoado fajropab. Era zuzjahok tonegin idba lid jizmedtis cevi weraj wettuw op ban uhmowlis gavaeli ebe zoko epu. Vub ciuj tuhjem ma dup elwuefi saodil agumur kahpef fezvifkoj uburoruj toci ijoneza wuldafose. Niporna dop zuv rewbak ejifitem du owpeloz we rusam nabse purlol hehawruk adabaga ba.",
+            "duration": 350,
+            "seasonNumber": 1,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "90c47629-de07-4967-bd75-8db5b75fe474",
+            "title": "Bullock Returns to Camp",
+            "description": "Jih iza buh bihewsec go ihaojo dimdu jaf wadu tap abmoado fajropab. Era zuzjahok tonegin idba lid jizmedtis cevi weraj wettuw op ban uhmowlis gavaeli ebe zoko epu. Vub ciuj tuhjem ma dup elwuefi saodil agumur kahpef fezvifkoj uburoruj toci ijoneza wuldafose. Niporna dop zuv rewbak ejifitem du owpeloz we rusam nabse purlol hehawruk adabaga ba.",
+            "duration": 350,
+            "seasonNumber": 1,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "e9b15ff0-83ec-402b-893f-bb58d1e78131",
+            "title": "Suffer the Little Children",
+            "description": "Jih iza buh bihewsec go ihaojo dimdu jaf wadu tap abmoado fajropab. Era zuzjahok tonegin idba lid jizmedtis cevi weraj wettuw op ban uhmowlis gavaeli ebe zoko epu. Vub ciuj tuhjem ma dup elwuefi saodil agumur kahpef fezvifkoj uburoruj toci ijoneza wuldafose. Niporna dop zuv rewbak ejifitem du owpeloz we rusam nabse purlol hehawruk adabaga ba.",
+            "duration": 350,
+            "seasonNumber": 1,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "a24ec12f-7884-46cb-9add-3659139cebce",
+            "title": "No Other Sons or Daughters",
+            "description": "Jih iza buh bihewsec go ihaojo dimdu jaf wadu tap abmoado fajropab. Era zuzjahok tonegin idba lid jizmedtis cevi weraj wettuw op ban uhmowlis gavaeli ebe zoko epu. Vub ciuj tuhjem ma dup elwuefi saodil agumur kahpef fezvifkoj uburoruj toci ijoneza wuldafose. Niporna dop zuv rewbak ejifitem du owpeloz we rusam nabse purlol hehawruk adabaga ba.",
+            "duration": 350,
+            "seasonNumber": 1,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "c749c66f-a128-43ad-8ee1-4e530f154fc9",
+            "title": "Mr. Wu",
+            "description": "Jih iza buh bihewsec go ihaojo dimdu jaf wadu tap abmoado fajropab. Era zuzjahok tonegin idba lid jizmedtis cevi weraj wettuw op ban uhmowlis gavaeli ebe zoko epu. Vub ciuj tuhjem ma dup elwuefi saodil agumur kahpef fezvifkoj uburoruj toci ijoneza wuldafose. Niporna dop zuv rewbak ejifitem du owpeloz we rusam nabse purlol hehawruk adabaga ba.",
+            "duration": 350,
+            "seasonNumber": 1,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "02b39906-d049-437a-a790-e8d1ecc55b48",
+            "title": "Jewel's Boot Is Made for Walking",
+            "description": "Jih iza buh bihewsec go ihaojo dimdu jaf wadu tap abmoado fajropab. Era zuzjahok tonegin idba lid jizmedtis cevi weraj wettuw op ban uhmowlis gavaeli ebe zoko epu. Vub ciuj tuhjem ma dup elwuefi saodil agumur kahpef fezvifkoj uburoruj toci ijoneza wuldafose. Niporna dop zuv rewbak ejifitem du owpeloz we rusam nabse purlol hehawruk adabaga ba.",
+            "duration": 350,
+            "seasonNumber": 1,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "9d27a2b1-ed70-408e-ac7b-4d79bc5114dc",
+            "title": "Sold Under Sin",
+            "description": "Jih iza buh bihewsec go ihaojo dimdu jaf wadu tap abmoado fajropab. Era zuzjahok tonegin idba lid jizmedtis cevi weraj wettuw op ban uhmowlis gavaeli ebe zoko epu. Vub ciuj tuhjem ma dup elwuefi saodil agumur kahpef fezvifkoj uburoruj toci ijoneza wuldafose. Niporna dop zuv rewbak ejifitem du owpeloz we rusam nabse purlol hehawruk adabaga ba.",
+            "duration": 350,
+            "seasonNumber": 1,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          }
+        ],
+        "__typename": "Season"
+      },
+      {
+        "id": 2,
+        "seasonNumber": 2,
+        "episodes": [
+          {
+            "id": "082f4a55-11a4-4bb6-8c2b-ddaa77fafe8f",
+            "title": "A Lie Agreed Upon, Part 1",
+            "seasonNumber": 2,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "50d6dc6e-236b-42ef-aa44-170789da91fd",
+            "title": "A Lie Agreed Upon, Part 2",
+            "seasonNumber": 2,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "dab549d6-612c-48c4-9e48-c78c3824556b",
+            "title": "New Money",
+            "seasonNumber": 2,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "39c5d8a1-77f4-47d7-aec7-3eb48843c222",
+            "title": "Requiem for a Gleet",
+            "seasonNumber": 2,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "31e23532-6236-484c-8baa-b353c53311ec",
+            "title": "Complications",
+            "seasonNumber": 2,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "fcaaf97e-5375-4ff9-be6e-85bc43769544",
+            "title": "Something Very Expensive",
+            "seasonNumber": 2,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "400a2ba6-c9a4-4e0a-bf1f-0b4920e7e435",
+            "title": "E.B. Was Left Out",
+            "seasonNumber": 2,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "90af61ce-759d-4cf3-a198-aae864707e8e",
+            "title": "Childish Things",
+            "seasonNumber": 2,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "b3669c7b-f6bf-4991-a45e-31d176f36134",
+            "title": "Amalgamation and Capital",
+            "seasonNumber": 2,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "4c61ebd4-1e98-43da-8c52-d0cb40ba06ed",
+            "title": "Advances, None Miraculous",
+            "seasonNumber": 2,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "6b395cc5-a406-439e-b2f4-a04c56eae9b2",
+            "title": "The Whores Can Come",
+            "seasonNumber": 2,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "70b7fe27-44b3-4b58-b2de-2119f36f59ad",
+            "title": "Boy the Earth Talks To",
+            "seasonNumber": 2,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          }
+        ],
+        "__typename": "Season"
+      },
+      {
+        "id": 3,
+        "seasonNumber": 3,
+        "episodes": [
+          {
+            "id": "5b3646e2-3723-4c8b-8d77-dd26c4f8c48b",
+            "title": "Tell Your God to Ready for Blood",
+            "seasonNumber": 3,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "6f96901a-d950-4eb4-9c91-0ff833e01d54",
+            "title": "I Am Not the Fine Man You Take Me For",
+            "seasonNumber": 3,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "4dd65d23-de01-47b0-9070-1cd0636bed57",
+            "title": "True Colors",
+            "seasonNumber": 3,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "f199fcbb-be3e-426d-970f-df5be19912bf",
+            "title": "Full Faith and Credit",
+            "seasonNumber": 3,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "d7223d11-486d-41b1-9196-16182486b43d",
+            "title": "A Two-Headed Beast",
+            "seasonNumber": 3,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "2b0af936-fc50-4fb7-80e0-dbe735db469e",
+            "title": "A Rich Find",
+            "seasonNumber": 3,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "51cc6e3e-d8b9-42fd-a325-d0c7ce72962a",
+            "title": "Unauthorized Cinnamon",
+            "seasonNumber": 3,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "3136e070-0c2a-4103-a35c-da1cdf58a731",
+            "title": "Leviathan Smiles",
+            "seasonNumber": 3,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "1c0096a3-6823-46f7-9249-2eeabdb77d06",
+            "title": "Amateur Night",
+            "seasonNumber": 3,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "b00c7b81-31cc-4c65-a1a3-c1e9b018e797",
+            "title": "A Constant Throb",
+            "seasonNumber": 3,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "a97a324c-dc04-4cc5-b377-fa9640eab9f5",
+            "title": "The Catbird Seat",
+            "seasonNumber": 3,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          },
+          {
+            "id": "b46c0632-eb2c-4027-8857-080459109317",
+            "title": "Tell Him Something Pretty",
+            "seasonNumber": 3,
+            "tile": {
+              "image": "http://tcnz.tmsimg.com/assets/p184931_ce_h9_aa.jpg"
+            },
+            "rating": {
+              "id": "8ae7d2a2-24f6-5ba2-9551-29507ead9f4a",
+              "rating": "R16"
+            },
+            "videos": [
+              {
+                "videoCloudReferenceId": "5419485997001",
+                "type": "MOVIE",
+                "__typename": "Video"
+              },
+              {
+                "videoCloudReferenceId": "5419486891001",
+                "type": "PREVIEW",
+                "__typename": "Video"
+              }
+            ],
+            "__typename": "Episode"
+          }
+        ],
+        "__typename": "Season"
+      }
+    ],
+    "__typename": "Series"
+  },
+  "__typename": "Episode"
+}

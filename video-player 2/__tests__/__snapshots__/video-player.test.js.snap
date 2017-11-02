@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VideoPlayer renders according to valid snapshot 1`] = `
+<div
+  className="playerWrapper"
+>
+  <div
+    className="playerRatioWrapper"
+  >
+    <video
+      className="player"
+      controls={true}
+      data-account="account_id"
+      data-application-id="BC_LIGHTBOX_APP"
+      data-embed="default"
+      data-player="default"
+      data-video-id="5419485997001"
+    />
+  </div>
+</div>
+`;

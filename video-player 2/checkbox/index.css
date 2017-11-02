@@ -1,0 +1,7 @@
+@import '../../../../_mixins.css';
+
+.checkboxWrapper {
+  @mixin clickable;
+  display: flex;
+  padding: 5px;
+}

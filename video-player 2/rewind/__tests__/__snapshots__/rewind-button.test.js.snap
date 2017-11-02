@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RewindButton calls player.currentTime twice 1`] = `
+<img
+  alt="Rewind"
+  onClick={[Function]}
+  src="rewind.svg"
+/>
+`;
+
+exports[`RewindButton calls player.currentTime twice 2`] = `
+<img
+  alt="Rewind"
+  onClick={[Function]}
+  src="rewind.svg"
+/>
+`;
+
+exports[`RewindButton renders according to valid snapshot 1`] = `
+<img
+  alt="Rewind"
+  onClick={[Function]}
+  src="rewind.svg"
+/>
+`;

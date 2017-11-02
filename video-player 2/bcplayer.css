@@ -1,0 +1,70 @@
+@import "../../../_variables.css";
+@import "../../../_mixins.css";
+
+:global {
+  .vjs-controls-enabled {
+    .vjs-play-progress {
+      background-color: $lightbox_yellow;
+    }
+  }
+
+	.vjs-custom-btn-img {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		img {
+			width: 18px;
+		}
+
+    &.right-control {
+      margin-top: -18px;
+    }
+	}
+
+  .bc-player-default_default {
+    font-family: "GothamRounded";
+    font-weight: "300";
+
+    &.vjs-mouse.vjs-playing {
+      .vjs-big-play-button {
+        display: none;
+      }
+    }
+
+    &.vjs-mouse,
+    &.vjs-paused {
+      .vjs-big-play-button {
+        display: table;
+        margin: auto auto;
+        margin-top: -60px;
+        position: relative;
+        top: 50%;
+      }
+    }
+
+    /* transitions for player controls */
+    .headerContainer,
+    &.vjs-mouse.vjs-has-started .vjs-control-bar {
+      @mixin player-control-visible;
+    }
+
+    &.vjs-user-inactive {
+      .headerContainer{
+       @mixin player-control-hidden;
+      }
+    }
+
+    &.vjs-mouse.vjs-user-inactive .vjs-control-bar {
+      @mixin player-control-hidden;
+    }
+
+    &.vjs-fullscreen.vjs-user-inactive {
+      .headerContainer,
+      .vjs-control-bar {
+        @mixin player-control-hidden;
+        cursor: none;
+      }
+    }
+  }
+}
+

@@ -1,0 +1,451 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EpisodeSelectorMenu should render with episode selected 1`] = `
+<div>
+  <p>
+    <img
+      alt="Back"
+      onClick={[Function]}
+      src="back.svg"
+    />
+    <span>
+      Season 
+      2
+    </span>
+  </p>
+  <div
+    className="rc-collapse episodeSelectorOptions"
+    style={undefined}
+  >
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        A Lie Agreed Upon, Part 1
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        A Lie Agreed Upon, Part 2
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        New Money
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        Requiem for a Gleet
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        Complications
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        Something Very Expensive
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        E.B. Was Left Out
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        Childish Things
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        Amalgamation and Capital
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        Advances, None Miraculous
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        The Whores Can Come
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        Boy the Earth Talks To
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`EpisodeSelectorMenu should render with no selection 1`] = `
+<div>
+  <p>
+    <img
+      alt="Back"
+      onClick={[Function]}
+      src="back.svg"
+    />
+    <span>
+      Season 
+      2
+    </span>
+  </p>
+  <div
+    className="rc-collapse episodeSelectorOptions"
+    style={undefined}
+  >
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        A Lie Agreed Upon, Part 1
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        A Lie Agreed Upon, Part 2
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        New Money
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        Requiem for a Gleet
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        Complications
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        Something Very Expensive
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        E.B. Was Left Out
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        Childish Things
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        Amalgamation and Capital
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        Advances, None Miraculous
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        The Whores Can Come
+      </div>
+    </div>
+    <div
+      className="rc-collapse-item episodeSelectorOption"
+      id={undefined}
+      style={undefined}
+    >
+      <div
+        aria-expanded={false}
+        className="rc-collapse-header episodeSelectorOptionName"
+        onClick={[Function]}
+        role="tab"
+      >
+        <i
+          className="arrow"
+        />
+        Boy the Earth Talks To
+      </div>
+    </div>
+  </div>
+</div>
+`;

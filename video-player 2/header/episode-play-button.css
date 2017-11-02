@@ -1,0 +1,20 @@
+@import '../../../../_variables.css';
+@import '../../../../_mixins.css';
+
+.episodeSelectorOptionPlay{
+  @mixin clickable;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: $z_index_player_menu;
+  img {
+    height: 26px;
+    width: 20px;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+  }
+}

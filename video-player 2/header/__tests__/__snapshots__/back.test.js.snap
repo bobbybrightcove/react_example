@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BackIcon renders according to valid snapshot 1`] = `
+<a
+  className="iconBox"
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <img
+    alt="Back"
+    src="back.svg"
+  />
+</a>
+`;
+
+exports[`BackIcon should change icon on mouse enter/leave 1`] = `
+<a
+  className="iconBox"
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <img
+    alt="Back"
+    src="back-hover.svg"
+  />
+</a>
+`;
+
+exports[`BackIcon should change icon on mouse enter/leave 2`] = `
+<a
+  className="iconBox"
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <img
+    alt="Back"
+    src="back.svg"
+  />
+</a>
+`;

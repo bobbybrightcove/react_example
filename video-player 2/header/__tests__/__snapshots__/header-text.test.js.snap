@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderText renders according to valid snapshot 1`] = `
+<div
+  className="headerText"
+>
+  <p>
+    John Carter
+  </p>
+</div>
+`;

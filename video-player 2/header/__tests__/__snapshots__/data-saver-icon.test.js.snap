@@ -1,0 +1,163 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DataSaverIcon renders according to valid snapshot 1`] = `
+<div
+  className="dataSaverWrapper"
+>
+  <div
+    className="dataSaverIconBox"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <img
+      alt="Data Saver"
+      src="data-saver-hd.svg"
+    />
+  </div>
+</div>
+`;
+
+exports[`DataSaverIcon should change icon on mouse enter/leave 1`] = `
+<div
+  className="dataSaverWrapper"
+>
+  <div
+    className="dataSaverIconBox"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <img
+      alt="Data Saver"
+      src="data-saver-hd-hover.svg"
+    />
+  </div>
+</div>
+`;
+
+exports[`DataSaverIcon should change icon on mouse enter/leave 2`] = `
+<div
+  className="dataSaverWrapper"
+>
+  <div
+    className="dataSaverIconBox"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <img
+      alt="Data Saver"
+      src="data-saver-hd.svg"
+    />
+  </div>
+</div>
+`;
+
+exports[`DataSaverIcon should change to HD icon if HD is selected 1`] = `
+<div
+  className="dataSaverWrapper"
+>
+  <div
+    className="dataSaverIconBox"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <img
+      alt="Data Saver"
+      src="data-saver-hd-hover.svg"
+    />
+  </div>
+</div>
+`;
+
+exports[`DataSaverIcon should change to HD icon if HD is selected 2`] = `
+<div
+  className="dataSaverWrapper"
+>
+  <div
+    className="dataSaverIconBox"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <img
+      alt="Data Saver"
+      src="data-saver-hd.svg"
+    />
+  </div>
+</div>
+`;
+
+exports[`DataSaverIcon should change to SAVER icon if SAVER is selected 1`] = `
+<div
+  className="dataSaverWrapper"
+>
+  <div
+    className="dataSaverIconBox"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <img
+      alt="Data Saver"
+      src="data-saver-saver-hover.svg"
+    />
+  </div>
+</div>
+`;
+
+exports[`DataSaverIcon should change to SAVER icon if SAVER is selected 2`] = `
+<div
+  className="dataSaverWrapper"
+>
+  <div
+    className="dataSaverIconBox"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <img
+      alt="Data Saver"
+      src="data-saver-saver.svg"
+    />
+  </div>
+</div>
+`;
+
+exports[`DataSaverIcon should change to SD icon if SD is selected 1`] = `
+<div
+  className="dataSaverWrapper"
+>
+  <div
+    className="dataSaverIconBox"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <img
+      alt="Data Saver"
+      src="data-saver-sd-hover.svg"
+    />
+  </div>
+</div>
+`;
+
+exports[`DataSaverIcon should change to SD icon if SD is selected 2`] = `
+<div
+  className="dataSaverWrapper"
+>
+  <div
+    className="dataSaverIconBox"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <img
+      alt="Data Saver"
+      src="data-saver-sd.svg"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DataSaverMenu should render with no selection 1`] = `
+<div
+  className="dataSaverOption"
+  onClick={[Function]}
+>
+  <div
+    className="dataSaverOptionLeft"
+  >
+    <div
+      className="dataSaverOptionName"
+    >
+      label
+    </div>
+    <div
+      className="dataSaverOptionDesc"
+    >
+      description
+    </div>
+  </div>
+  <div
+    className="dataSaverOptionRight"
+  >
+    <div
+      className="checkboxWrapper"
+    >
+      <img
+        alt={false}
+        src="checkbox-unchecked.svg"
+      />
+    </div>
+  </div>
+</div>
+`;

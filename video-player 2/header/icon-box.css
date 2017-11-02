@@ -1,0 +1,6 @@
+@import '../../../../_variables.css';
+@import './_header-mixins.css';
+
+.iconBox {
+  @mixin icon;
+}

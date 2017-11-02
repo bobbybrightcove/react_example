@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NextEpisodeButton renders according to valid snapshot 1`] = `
+<a
+  href="/watch/014e59c-ec94-4bba-aee8-bebcfe4283d9"
+>
+  <img
+    alt="Next Episode"
+    src="next-episode.svg"
+  />
+</a>
+`;

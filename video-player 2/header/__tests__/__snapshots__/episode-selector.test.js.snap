@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EpisodeSelector renders according to valid snapshot 1`] = `
+<div
+  className="episodeSelectorWrapper"
+>
+  <div
+    className="episodeSelectorBox"
+    onClick={[Function]}
+  >
+    <div
+      className="episodeSelectorText"
+    >
+      S1.E688
+      <img
+        alt="Episodes"
+        src="yellow-arrow-down.svg"
+      />
+    </div>
+  </div>
+</div>
+`;

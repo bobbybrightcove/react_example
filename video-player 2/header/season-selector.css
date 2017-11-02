@@ -1,0 +1,157 @@
+@import '../../../../_variables.css';
+@import '../../../../_mixins.css';
+
+$menu_padding: 30px;
+$options_vertical_padding: 26px;
+
+.seasonSelectorWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  height: 50px;
+}
+
+.seasonSelectorBox {
+  height: 40px;
+  width: 122px;
+  border: 1.5px solid $lightbox_yellow;
+  border-radius: 4px;
+
+  .seasonSelectorText {
+    @mixin clickable;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 24px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+    &:hover{
+      color: $lightbox_yellow;
+    }
+  }
+}
+
+.seasonSelectorMenuWrapper {
+  @mixin selectorMenuWrapper;
+  width: 690px;
+  padding: 0;
+  @mixin selectorOptionHeader;
+}
+
+.seasonSelectorOptions {
+    max-height: 500px;
+    overflow-y: scroll;
+    @mixin scrollbar;
+}
+
+.seasonSelectorOption {
+  @mixin selectorOption;
+  flex-direction: row;
+  justify-content: space-between;
+
+  img {
+    @mixin clickable;
+    width: 12px;
+    height: 21px;
+  }
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  &:hover {
+    color: $lightbox_yellow;
+  }
+
+  &.selected {
+    background-color: $gray;
+    color: $white;
+  }
+
+  .seasonSelectorOptionName {
+    @mixin selectorOptionName;
+  }
+
+  .seasonSelectorOptionDetail {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+
+    .seasonSelectorOptionImage{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      img:first-child {
+        width: 240px;
+      }
+
+      .seasonSelectorOptionPlay{
+        position: absolute;
+        z-index: $z_index_player_menu;
+        img {
+          height: 26px;
+          width: 20px;
+        }
+      }
+
+      .seasonSelectorOptionProgress {
+        width: 70px;
+        height: 70px;
+        position: absolute;
+      }
+    }
+
+    .seasonSelectorOptionDesc {
+      font-size: 16px;
+      margin-left: 20px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .seasonSelectorOptionMetadata {
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
+      margin-bottom: 10px;
+      font-weight: bold;
+      align-content: center;
+
+      .seasonSelectorOptionRating {
+        border: 1px solid $white;
+        padding: 3px;
+        margin-right: 10px;
+      }
+
+      .seasonSelectorOptionDuration {
+        display: flex;
+        align-items: center;
+      }
+    }
+  }
+
+  .seasonSelectorOptionCollapse {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 20px;
+  }
+}
+
+
+:global {
+  .rc-collapse-content-inactive {
+    display: none;
+  }
+  .rc-collapse-item-active{
+    background-color: $gray;
+    color: $white;
+    position: relative;
+
+    &:hover {
+      color: $white;
+    }
+  }
+}
